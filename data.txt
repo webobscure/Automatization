@@ -1,0 +1,224 @@
+[
+  { specifications_id: 22 },{ specification: '35' } 
+  { specifications_id: 23 },{ specification: '20' } Максимальная суммарная нагрузка - поменять на US
+  { specifications_id: 24 },{ specification: '100x100' } Стандарты VESA 
+  { specifications_id: 24 },{ specification: '75x75' } Стандарты VESA 
+  { specifications_id: 60 },{ specification: 'Черный' } Цвет изделия 
+  { specifications_id: 61 },{ specification: 'Пластик' } Материал
+  { specifications_id: 61 },{ specification: 'Холоднокатаная сталь' } Материал 
+  { specifications_id: 67 },{ specification: '10' } Диагональ экрана (min) 
+  { specifications_id: 68 },{ specification: '39x34x25.5' } Габаритные размеры групповой упаковки 
+  { specifications_id: 709 }, { specification: '10' } Количество в групповой 
+  { specifications_id: 715 },{ specification: '5' } Гарантия
+  { specifications_id: 720 },{ specification: '220' } Вылет от места крепления (max) - поменять на US
+  { specifications_id: 721 },{ specification: '80' } Вылет от места крепления (min) - поменять на US
+  { specifications_id: 723 },{ specification: '8' } Угол наклона вверх (max) 
+  { specifications_id: 724 },{ specification: '8' } Угол наклона вниз (max) 
+  { specifications_id: 725 },{ specification: '140' } Угол вращения (диапазон)
+  { specifications_id: 726 },{ specification: '360' } Угол вращения (диапазон)
+  { specifications_id: 749 },{ specification: 'R2' } Обозначение 
+  { specifications_id: 750 },{ specification: 'кронштейн для телевизора и монитора 10"-35" наклонно-поворотный, чёрный'} Наименование 
+  { specifications_id: 751 },{ specification: 'R2-B' } Артикул 
+  { specifications_id: 752 },{ specification: 'Новый' } Статус 
+  { specifications_id: 753 },{ specification: '1' } Количество экранов 
+  { specifications_id: 755 },{   specification: 'Кронштейны для ТВ->Настенные->Наклонно-поворотные'  } Сегмент 
+  { specifications_id: 757 }, { specification: '4603728440781' } Штрих код индивидуальный 
+  { specifications_id: 758 },{ specification: '4603728440835' } Штрих код групповой 
+  { specifications_id: 762 },{ specification: '21x16x7' } Габаритные размеры индивидуальной упаковки 
+  { specifications_id: 763 },{ specification: '2352' } Объем индивидуальной упаковки 
+  { specifications_id: 766 },{ specification: '0.900' } Масса брутто индивидуальная
+  { specifications_id: 767 },{ specification: '9.2' } Масса брутто групповая - поменять на US
+  { specifications_id: 768 },{ specification: '360' } Количество индивидуальных на паллете 
+  { specifications_id: 769 },{ specification: '36' } Количество групповых на паллете 
+  { specifications_id: 771 }, { specification: '1049' } Цена ОПТ 
+  { specifications_id: 772 },{ specification: '1590' } Цена МИЦ 
+  { specifications_id: 773 }, { specification: '1710' } Цена РРЦ 
+]
+
+  Нужно менять id: 23(753426),  720(753452), 721(753453), 767(753433)
+  [
+  { 
+    products_specification_id: 753425,
+    specification: '35',
+    specifications_id: 22
+  },
+  {
+    products_specification_id: 753426,
+    specification: '20',
+    specifications_id: 23
+  },
+  {
+    products_specification_id: 753428,
+    specification: '100x100',
+    specifications_id: 24
+  },
+  {
+    products_specification_id: 753427,
+    specification: '75x75',
+    specifications_id: 24
+  },
+  {
+    products_specification_id: 753441,
+    specification: 'Черный',
+    specifications_id: 60
+  },
+  {
+    products_specification_id: 753443,
+    specification: 'Пластик',
+    specifications_id: 61
+  },
+  {
+    products_specification_id: 753442,
+    specification: 'Холоднокатаная сталь',
+    specifications_id: 61
+  },
+  {
+    products_specification_id: 753448,
+    specification: '10',
+    specifications_id: 67
+  },
+  {
+    products_specification_id: 753449,
+    specification: '39x34x25.5',
+    specifications_id: 68
+  },
+  {
+    products_specification_id: 753450,
+    specification: '10',
+    specifications_id: 709
+  },
+  {
+    products_specification_id: 753451,
+    specification: '5',
+    specifications_id: 715
+  },
+  {
+    products_specification_id: 753452,
+    specification: '220',
+    specifications_id: 720
+  },
+  {
+    products_specification_id: 753453,
+    specification: '80',
+    specifications_id: 721
+  },
+  {
+    products_specification_id: 753454,
+    specification: '8',
+    specifications_id: 723
+  },
+  {
+    products_specification_id: 753455,
+    specification: '8',
+    specifications_id: 724
+  },
+  {
+    products_specification_id: 753456,
+    specification: '140',
+    specifications_id: 725
+  },
+  {
+    products_specification_id: 753457,
+    specification: '360',
+    specifications_id: 726
+  },
+  {
+    products_specification_id: 753529,
+    specification: 'R2',
+    specifications_id: 749
+  },
+  {
+    products_specification_id: 753541,
+    specification: 'кронштейн для телевизора и монитора 10"-35" наклонно-поворотный, чёрный',
+    specifications_id: 750
+  },
+  {
+    products_specification_id: 753535,
+    specification: 'R2-B',
+    specifications_id: 751
+  },
+  {
+    products_specification_id: 753444,
+    specification: 'Новый',
+    specifications_id: 752
+  },
+  {
+    products_specification_id: 753440,
+    specification: '1',
+    specifications_id: 753
+  },
+  {
+    products_specification_id: 753439,
+    specification: 'Кронштейны для ТВ->Настенные->Наклонно-поворотные',
+    specifications_id: 755
+  },
+  {
+    products_specification_id: 753547,
+    specification: '4603728440781',
+    specifications_id: 757
+  },
+  {
+    products_specification_id: 753437,
+    specification: '4603728440835',
+    specifications_id: 758
+  },
+  {
+    products_specification_id: 753559,
+    specification: '21x16x7',
+    specifications_id: 762
+  },
+  {
+    products_specification_id: 753565,
+    specification: '2352',
+    specifications_id: 763
+  },
+  {
+    products_specification_id: 753553,
+    specification: '0.900',
+    specifications_id: 766
+  },
+  {
+    products_specification_id: 753433,
+    specification: '9.2',
+    specifications_id: 767
+  },
+  {
+    products_specification_id: 753432,
+    specification: '360',
+    specifications_id: 768
+  },
+  {
+    products_specification_id: 753431,
+    specification: '36',
+    specifications_id: 769
+  },
+  {
+    products_specification_id: 753571,
+    specification: '1049',
+    specifications_id: 771
+  },
+  {
+    products_specification_id: 753429,
+    specification: '1590',
+    specifications_id: 772
+  },
+  {
+    products_specification_id: 753458,
+    specification: '1710',
+    specifications_id: 773
+  }
+]
+
+{
+  products_specification_id: 753426,
+  specification: '20',
+  specifications_id: 23,
+  language_id: 1
+}
+
+ {
+    products_specification_id: 753460,
+    specification: '44.1',
+    specifications_id: 23,
+    language_id: 2
+  },

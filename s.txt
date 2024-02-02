@@ -1,0 +1,1039 @@
+    products_id: 141,
+    specifications_id: 22,
+    language_id: 1,
+    specification: '34'
+  },
+  {
+    products_specification_id: 756273,
+    products_id: 141,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '8'
+  },
+  {
+    products_specification_id: 456954,
+    products_id: 163,
+    specifications_id: 766,
+    language_id: 6,
+    specification: '38.000'
+  },
+  {
+    products_specification_id: 704464,
+    products_id: 54,
+    specifications_id: 762,
+    language_id: 2,
+    specification: '104x53x18'
+  },
+  {
+    products_specification_id: 703447,
+    products_id: 498,
+    specifications_id: 762,
+    language_id: 2,
+    specification: '106x73.5x18'
+  },
+  {
+    products_specification_id: 459402,
+    products_id: 332,
+    specifications_id: 750,
+    language_id: 6,
+    specification: 'Designer Räder ⌀75 mm für Mobile TV Ständer TV Standfüße mit elastischem Gummi, doppelte Fixierung für hohe Belastung und leichten Lauf, 4er-Set75 Schwarz'
+  },
+  {
+    products_specification_id: 738926,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 444685,
+    products_id: 30,
+    specifications_id: 750,
+    language_id: 3,
+    specification: 'кронштейн для монитора 13"-32" настольный, серебристый G200'
+  },
+  {
+    products_specification_id: 747567,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 3,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753684,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 3,
+    specification: 'R3'
+  },
+  {
+    products_specification_id: 752824,
+    products_id: 19,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'M4S'
+  },
+  {
+    products_specification_id: 742262,
+    products_id: 17,
+    specifications_id: 749,
+    language_id: 1,
+    specification: 'M1S'
+  },
+  {
+    products_specification_id: 760216,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 3,
+    specification: '4603728440682'
+  },
+  {
+    products_specification_id: 756290,
+    products_id: 141,
+    specifications_id: 67,
+    language_id: 1,
+    specification: '8'
+  },
+  {
+    products_specification_id: 756291,
+    products_id: 141,
+    specifications_id: 68,
+    language_id: 1,
+    specification: '49x38x42'
+  },
+  {
+    products_specification_id: 459050,
+    products_id: 220,
+    specifications_id: 763,
+    language_id: 2,
+    specification: '7998'
+  },
+  {
+    products_specification_id: 372165,
+    products_id: 79,
+    specifications_id: 763,
+    language_id: 3,
+    specification: '2700'
+  },
+  {
+    products_specification_id: 756292,
+    products_id: 141,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '13'
+  },
+  {
+    products_specification_id: 716803,
+    products_id: 166,
+    specifications_id: 22,
+    language_id: 1,
+    specification: '40'
+  },
+  {
+    products_specification_id: 716804,
+    products_id: 166,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '30'
+  },
+  {
+    products_specification_id: 456842,
+    products_id: 162,
+    specifications_id: 763,
+    language_id: 6,
+    specification: '61161'
+  },
+  {
+    products_specification_id: 612789,
+    products_id: 454,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'TS1171'
+  },
+  {
+    products_specification_id: 747727,
+    products_id: 47,
+    specifications_id: 757,
+    language_id: 1,
+    specification: '4603728440217'
+  },
+  {
+    products_specification_id: 738927,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 6,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 747568,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753683,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 2,
+    specification: 'R3'
+  },
+  {
+    products_specification_id: 752825,
+    products_id: 19,
+    specifications_id: 749,
+    language_id: 6,
+    specification: 'M4S'
+  },
+  {
+    products_specification_id: 741586,
+    products_id: 11,
+    specifications_id: 763,
+    language_id: 5,
+    specification: '1620'
+  },
+  {
+    products_specification_id: 760215,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 2,
+    specification: '4603728440682'
+  },
+  {
+    products_specification_id: 716821,
+    products_id: 166,
+    specifications_id: 67,
+    language_id: 1,
+    specification: '12'
+  },
+  {
+    products_specification_id: 716822,
+    products_id: 166,
+    specifications_id: 68,
+    language_id: 1,
+    specification: '38x38x31'
+  },
+  {
+    products_specification_id: 459049,
+    products_id: 220,
+    specifications_id: 763,
+    language_id: 1,
+    specification: '7998'
+  },
+  {
+    products_specification_id: 372166,
+    products_id: 79,
+    specifications_id: 763,
+    language_id: 4,
+    specification: '2700'
+  },
+  {
+    products_specification_id: 733776,
+    products_id: 77,
+    specifications_id: 757,
+    language_id: 5,
+    specification: '4603728440989'
+  },
+  {
+    products_specification_id: 716823,
+    products_id: 166,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '10'
+  },
+  {
+    products_specification_id: 451008,
+    products_id: 84,
+    specifications_id: 22,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 451009,
+    products_id: 84,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '10'
+  },
+  {
+    products_specification_id: 455425,
+    products_id: 73,
+    specifications_id: 762,
+    language_id: 6,
+    specification: '22x8x4'
+  },
+  {
+    products_specification_id: 704465,
+    products_id: 54,
+    specifications_id: 762,
+    language_id: 3,
+    specification: '104x53x18'
+  },
+  {
+    products_specification_id: 748477,
+    products_id: 49,
+    specifications_id: 750,
+    language_id: 3,
+    specification: 'TM6-B Support TV mural inclinable des écrans de 43 à 85 pouces Noir'
+  },
+  {
+    products_specification_id: 451461,
+    products_id: 33,
+    specifications_id: 763,
+    language_id: 5,
+    specification: '11739'
+  },
+  {
+    products_specification_id: 746306,
+    products_id: 25,
+    specifications_id: 766,
+    language_id: 1,
+    specification: '1.800'
+  },
+  {
+    products_specification_id: 747569,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753682,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 1,
+    specification: 'R3'
+  },
+  ... 25504 more items
+]
+{
+  products_specification_id: 758669,
+  products_id: 456,
+PS C:\Users\a.ginovyan\Desktop\Work\Automatization> npm run start
+
+> automatization@1.0.0 start
+> node ./dist/index.js      
+
+Успешное подключение к БД!
+[
+  {
+    products_specification_id: 748629,
+    products_id: 80,
+    specifications_id: 749,
+    language_id: 6,
+    specification: 'UT4'
+  },
+  {
+    products_specification_id: 470061,
+    products_id: 150,
+    specifications_id: 771,
+    language_id: 2,
+    specification: '69999'
+  },
+  {
+    products_specification_id: 760218,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 5,
+    specification: '4603728440682'    
+  },
+  {
+    products_specification_id: 760226,
+    products_id: 26,
+    specifications_id: 762,
+    language_id: 1,
+    specification: '41x29.2x12.2'     
+  },
+  {
+    products_specification_id: 760220,
+    products_id: 26,
+    specifications_id: 766,
+    language_id: 1,
+    specification: '2.600'
+  },
+  {
+    products_specification_id: 760221,
+    products_id: 26,
+    specifications_id: 766,
+    language_id: 2,
+    specification: '2.600'
+  },
+  {
+    products_specification_id: 760199,
+    products_id: 26,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'G80'
+  },
+  {
+    products_specification_id: 760207,
+    products_id: 26,
+    specifications_id: 751,
+    language_id: 6,
+    specification: 'G80-W'
+  },
+  {
+    products_specification_id: 760237,
+    products_id: 26,
+    specifications_id: 763,
+    language_id: 6,
+    specification: '14605.84'
+  },
+  {
+    products_specification_id: 735201,
+    products_id: 447,
+    specifications_id: 762,
+    language_id: 3,
+    specification: '29x19x3'
+  },
+  {
+    products_specification_id: 761902,
+    products_id: 10,
+    specifications_id: 23,
+    language_id: 2,
+    specification: '44.00'
+  },
+  {
+    products_specification_id: 501787,
+    products_id: 160,
+    specifications_id: 722,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 501788,
+    products_id: 160,
+    specifications_id: 723,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 501789,
+    products_id: 160,
+    specifications_id: 724,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 501790,
+    products_id: 160,
+    specifications_id: 725,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 501791,
+    products_id: 160,
+    specifications_id: 726,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 751843,
+    products_id: 462,
+    specifications_id: 757,
+    language_id: 3,
+    specification: '4603728440774'
+  },
+  {
+    products_specification_id: 456619,
+    products_id: 165,
+    specifications_id: 720,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456620,
+    products_id: 165,
+    specifications_id: 721,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456621,
+    products_id: 165,
+    specifications_id: 722,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456622,
+    products_id: 165,
+    specifications_id: 723,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456623,
+    products_id: 165,
+    specifications_id: 724,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456624,
+    products_id: 165,
+    specifications_id: 725,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456625,
+    products_id: 165,
+    specifications_id: 726,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456743,
+    products_id: 162,
+    specifications_id: 720,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456744,
+    products_id: 162,
+    specifications_id: 721,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456745,
+    products_id: 162,
+    specifications_id: 722,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456746,
+    products_id: 162,
+    specifications_id: 723,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456747,
+    products_id: 162,
+    specifications_id: 724,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456748,
+    products_id: 162,
+    specifications_id: 725,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456749,
+    products_id: 162,
+    specifications_id: 726,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 456866,
+    products_id: 163,
+    specifications_id: 715,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 738925,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 738924,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 3,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 738933,
+    products_id: 34,
+    specifications_id: 751,
+    language_id: 6,
+    specification: 'K5A-W'
+  },
+  {
+    products_specification_id: 738932,
+    products_id: 34,
+    specifications_id: 751,
+    language_id: 5,
+    specification: 'K5A-W'
+  },
+  {
+    products_specification_id: 761247,
+    products_id: 152,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '98'
+  },
+  {
+    products_specification_id: 761246,
+    products_id: 152,
+    specifications_id: 22,
+    language_id: 1,
+    specification: '100'
+  },
+  {
+    products_specification_id: 747722,
+    products_id: 47,
+    specifications_id: 750,
+    language_id: 2,
+    specification: 'Tilting TV Wall Mount for 17" to 43-inch Screens 16" Stud Walls, Black'
+  },
+  {
+    products_specification_id: 748075,
+    products_id: 48,
+    specifications_id: 24,
+    language_id: 1,
+    specification: '400x400'
+  },
+  {
+    products_specification_id: 754132,
+    products_id: 304,
+    specifications_id: 750,
+    language_id: 4,
+    specification: 'кронштейн для телевизора 17"-43" наклонно-поворотный, чёрный'
+  },
+  {
+    products_specification_id: 572078,
+    products_id: 356,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '40'
+  },
+  {
+    products_specification_id: 735578,
+    products_id: 451,
+    specifications_id: 757,
+    language_id: 2,
+    specification: '4603728443904'
+  },
+  {
+    products_specification_id: 572079,
+    products_id: 356,
+    specifications_id: 715,
+    language_id: 1,
+    specification: '5'
+  },
+  {
+    products_specification_id: 747566,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 2,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753685,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'R3'
+  },
+  {
+    products_specification_id: 752823,
+    products_id: 19,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'M4S'
+  },
+  {
+    products_specification_id: 742263,
+    products_id: 17,
+    specifications_id: 749,
+    language_id: 2,
+    specification: 'M1S'
+  },
+  {
+    products_specification_id: 760217,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 4,
+    specification: '4603728440682'
+  },
+  {
+    products_specification_id: 761285,
+    products_id: 152,
+    specifications_id: 67,
+    language_id: 1,
+    specification: '1'
+  },
+  {
+    products_specification_id: 761286,
+    products_id: 152,
+    specifications_id: 68,
+    language_id: 1,
+    specification: 'нет'
+  },
+  {
+    products_specification_id: 459051,
+    products_id: 220,
+    specifications_id: 763,
+    language_id: 3,
+    specification: '7998'
+  },
+  {
+    products_specification_id: 372164,
+    products_id: 79,
+    specifications_id: 763,
+    language_id: 2,
+    specification: '2700'
+  },
+  {
+    products_specification_id: 733775,
+    products_id: 77,
+    specifications_id: 757,
+    language_id: 4,
+    specification: '4603728440989'
+  },
+  {
+    products_specification_id: 761287,
+    products_id: 152,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '65'
+  },
+  {
+    products_specification_id: 757215,
+    products_id: 86,
+    specifications_id: 757,
+    language_id: 6,
+    specification: '4603728440668'
+  },
+  {
+    products_specification_id: 756272,
+    products_id: 141,
+    specifications_id: 22,
+    language_id: 1,
+    specification: '34'
+  },
+  {
+    products_specification_id: 756273,
+    products_id: 141,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '8'
+  },
+  {
+    products_specification_id: 456954,
+    products_id: 163,
+    specifications_id: 766,
+    language_id: 6,
+    specification: '38.000'
+  },
+  {
+    products_specification_id: 704464,
+    products_id: 54,
+    specifications_id: 762,
+    language_id: 2,
+    specification: '104x53x18'
+  },
+  {
+    products_specification_id: 703447,
+    products_id: 498,
+    specifications_id: 762,
+    language_id: 2,
+    specification: '106x73.5x18'
+  },
+  {
+    products_specification_id: 459402,
+    products_id: 332,
+    specifications_id: 750,
+    language_id: 6,
+    specification: 'Designer Räder ⌀75 mm für Mobile TV Ständer TV Standfüße mit elastischem Gummi, doppelte Fixierung für hohe Belastung und leichten Lauf, 4er-Set75 Schwarz'
+  },
+  {
+    products_specification_id: 738926,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 444685,
+    products_id: 30,
+    specifications_id: 750,
+    language_id: 3,
+    specification: 'кронштейн для монитора 13"-32" настольный, серебристый G200'
+  },
+  {
+    products_specification_id: 747567,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 3,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753684,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 3,
+    specification: 'R3'
+  },
+  {
+    products_specification_id: 752824,
+    products_id: 19,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'M4S'
+  },
+  {
+    products_specification_id: 742262,
+    products_id: 17,
+    specifications_id: 749,
+    language_id: 1,
+    specification: 'M1S'
+  },
+  {
+    products_specification_id: 760216,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 3,
+    specification: '4603728440682'
+  },
+  {
+    products_specification_id: 756290,
+    products_id: 141,
+    specifications_id: 67,
+    language_id: 1,
+    specification: '8'
+  },
+  {
+    products_specification_id: 756291,
+    products_id: 141,
+    specifications_id: 68,
+    language_id: 1,
+    specification: '49x38x42'
+  },
+  {
+    products_specification_id: 459050,
+    products_id: 220,
+    specifications_id: 763,
+    language_id: 2,
+    specification: '7998'
+  },
+  {
+    products_specification_id: 372165,
+    products_id: 79,
+    specifications_id: 763,
+    language_id: 3,
+    specification: '2700'
+  },
+  {
+    products_specification_id: 756292,
+    products_id: 141,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '13'
+  },
+  {
+    products_specification_id: 716803,
+    products_id: 166,
+    specifications_id: 22,
+    language_id: 1,
+    specification: '40'
+  },
+  {
+    products_specification_id: 716804,
+    products_id: 166,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '30'
+  },
+  {
+    products_specification_id: 456842,
+    products_id: 162,
+    specifications_id: 763,
+    language_id: 6,
+    specification: '61161'
+  },
+  {
+    products_specification_id: 612789,
+    products_id: 454,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'TS1171'
+  },
+  {
+    products_specification_id: 747727,
+    products_id: 47,
+    specifications_id: 757,
+    language_id: 1,
+    specification: '4603728440217'
+  },
+  {
+    products_specification_id: 738927,
+    products_id: 34,
+    specifications_id: 749,
+    language_id: 6,
+    specification: 'K5A'
+  },
+  {
+    products_specification_id: 747568,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 4,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753683,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 2,
+    specification: 'R3'
+  },
+  {
+    products_specification_id: 752825,
+    products_id: 19,
+    specifications_id: 749,
+    language_id: 6,
+    specification: 'M4S'
+  },
+  {
+    products_specification_id: 741586,
+    products_id: 11,
+    specifications_id: 763,
+    language_id: 5,
+    specification: '1620'
+  },
+  {
+    products_specification_id: 760215,
+    products_id: 26,
+    specifications_id: 757,
+    language_id: 2,
+    specification: '4603728440682'
+  },
+  {
+    products_specification_id: 716821,
+    products_id: 166,
+    specifications_id: 67,
+    language_id: 1,
+    specification: '12'
+  },
+  {
+    products_specification_id: 716822,
+    products_id: 166,
+    specifications_id: 68,
+    language_id: 1,
+    specification: '38x38x31'
+  },
+  {
+    products_specification_id: 459049,
+    products_id: 220,
+    specifications_id: 763,
+    language_id: 1,
+    specification: '7998'
+  },
+  {
+    products_specification_id: 372166,
+    products_id: 79,
+    specifications_id: 763,
+    language_id: 4,
+    specification: '2700'
+  },
+  {
+    products_specification_id: 733776,
+    products_id: 77,
+    specifications_id: 757,
+    language_id: 5,
+    specification: '4603728440989'
+  },
+  {
+    products_specification_id: 716823,
+    products_id: 166,
+    specifications_id: 709,
+    language_id: 1,
+    specification: '10'
+  },
+  {
+    products_specification_id: 451008,
+    products_id: 84,
+    specifications_id: 22,
+    language_id: 1,
+    specification: 'Array'
+  },
+  {
+    products_specification_id: 451009,
+    products_id: 84,
+    specifications_id: 23,
+    language_id: 1,
+    specification: '10'
+  },
+  {
+    products_specification_id: 455425,
+    products_id: 73,
+    specifications_id: 762,
+    language_id: 6,
+    specification: '22x8x4'
+  },
+  {
+    products_specification_id: 704465,
+    products_id: 54,
+    specifications_id: 762,
+    language_id: 3,
+    specification: '104x53x18'
+  },
+  {
+    products_specification_id: 748477,
+    products_id: 49,
+    specifications_id: 750,
+    language_id: 3,
+    specification: 'TM6-B Support TV mural inclinable des écrans de 43 à 85 pouces Noir'
+  },
+  {
+    products_specification_id: 451461,
+    products_id: 33,
+    specifications_id: 763,
+    language_id: 5,
+    specification: '11739'
+  },
+  {
+    products_specification_id: 746306,
+    products_id: 25,
+    specifications_id: 766,
+    language_id: 1,
+    specification: '1.800'
+  },
+  {
+    products_specification_id: 747569,
+    products_id: 23,
+    specifications_id: 749,
+    language_id: 5,
+    specification: 'TM1'
+  },
+  {
+    products_specification_id: 753682,
+    products_id: 21,
+    specifications_id: 749,
+    language_id: 1,
+    specification: 'R3'
+  },
+  ... 25504 more items
+]
+{
+  products_specification_id: 758669,
+  products_id: 456,
+  specifications_id: 723,
+  language_id: 2,
+  specification: 3.6
+}
+C:\Users\a.ginovyan\Desktop\Work\Automatization\dist\index.js:34
+          connection.query(updateSql, (err, updateResult) => {
+                           ^
+
+ReferenceError: updateSql is not defined
+    at C:\Users\a.ginovyan\Desktop\Work\Automatization\dist\index.js:34:28
+    at Array.forEach (<anonymous>)
+    at Query.onResult (C:\Users\a.ginovyan\Desktop\Work\Automatization\dist\index.js:18:15)
+    at C:\Users\a.ginovyan\Desktop\Work\Automatization\node_modules\mysql2\lib\commands\query.js:86:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+
+Node.js v18.17.1

@@ -35,7 +35,7 @@
   { specifications_id: 773 }, { specification: '1710' } Цена РРЦ 
 ]
 
-  Нужно менять id: 23(753426),  720(753452), 721(753453), 767(753433)
+  Нужно менять id: 23(753426),  720(753452), 721(753453), 767(753433), 722, 754
   [
   { 
     products_specification_id: 753425,
@@ -215,7 +215,8 @@
   specifications_id: 23,
   language_id: 1
 }
-
+получить все данные с таблицы:
+SELECT * FROM products_specifications WHERE products_id = 492
  {
     products_specification_id: 753460,
     specification: '44.1',

@@ -14,15 +14,15 @@ connection.connect((err) => {
     connection.query(sql, (err, results) => {
       if (err) throw err;
       results.forEach((row)=> {
-        if (row.specifications_id == 23) {
-         
-           //чтобы получить единицу в фунтах нужно:
-             let newSpecification = (parseFloat(row.specification * 2.2).toFixed(2)).toString();
+        if (row.specifications_id == 60) {
+        
+          // чтобы получить единицу в дюймах 
+          let newSpecification = (parseFloat(row.specification * 0.04).toFixed(2)).toString();
+           
           newSpecification = Math.round(newSpecification * 100) / 100;
         if (newSpecification % 1 === 0) {
           newSpecification = Math.round(newSpecification);
         }
-        
           let productId = row.products_id;
           row.language_id = 2
           row.specification = newSpecification

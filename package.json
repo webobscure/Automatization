@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "nodemon": "nodemon ./dist/index.js",
+    "delete": "nodemon ./dist/delete.js",
     "start": "node ./dist/index.js",
     "test": "jest",
     "build": "tsc",

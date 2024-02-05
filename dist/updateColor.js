@@ -14,15 +14,20 @@ connection.connect((err) => {
     connection.query(sql, (err, results) => {
       if (err) throw err;
       results.forEach((row)=> {
-        if (row.specifications_id == 23) {
+        if (row.specifications_id == 60) {
+          if(row.specification == 'Белый') {
+            row.specification = 'White'
+          } else if (row.specification == 'Черный') {
+            row.specification = 'Black'
+          } else if (row.specification == 'Серый' || row.specification == 'Серебристый') {
+            row.specification = 'Silver'
+          } else if (row.specification == 'Синий') {
+            row.specification = 'Blue'
+          } else if (row.specification == 'Красный') {
+            row.specification = 'Red'
+          } 
          
-           //чтобы получить единицу в фунтах нужно:
-             let newSpecification = (parseFloat(row.specification * 2.2).toFixed(2)).toString();
-          newSpecification = Math.round(newSpecification * 100) / 100;
-        if (newSpecification % 1 === 0) {
-          newSpecification = Math.round(newSpecification);
-        }
-        
+       let newSpecification = row.specification
           let productId = row.products_id;
           row.language_id = 2
           row.specification = newSpecification

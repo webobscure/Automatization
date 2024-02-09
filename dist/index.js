@@ -14,8 +14,8 @@ connection.connect((err) => {
     connection.query(sql, (err, results) => {
       if (err) throw err;
       results.forEach((row)=> {
-        if (row.specifications_id == 23) {
-         
+        if (!row.specifications_id == 23) {
+          console.log(row.products_id)
            //чтобы получить единицу в фунтах нужно:
              let newSpecification = (parseFloat(row.specification * 2.2).toFixed(2)).toString();
           newSpecification = Math.round(newSpecification * 100) / 100;
@@ -30,7 +30,7 @@ connection.connect((err) => {
 
           // запрос на добавление должен выглядеть подобным образом: INSERT INTO products_specifications(products_id,language_id, specification, specifications_id) VALUES('52','2','232.98', '419')
          
-          let updateSql = `INSERT INTO products_specifications(products_id,language_id, specification, specifications_id) VALUES('${productId}','${row.language_id}','${row.specification}','${row.specifications_id}')`;
+          //let updateSql = `INSERT INTO products_specifications(products_id,language_id, specification, specifications_id) VALUES('${productId}','${row.language_id}','${row.specification}','${row.specifications_id}')`;
           connection.query(updateSql, (err, updateResult) => {
             if (err) throw err;
             console.log('Обновлена таблица у продукта с ID:', productId);
